@@ -1,0 +1,5 @@
+SpeechRecognition
+pyttsx3
+pyaudio
+
+to run -python voice_email.py
